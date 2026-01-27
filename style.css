@@ -35,7 +35,10 @@ footer {
 }
 .links {
   display: flex;
+  flex-direction: column;
   gap: 15px;
+  justify-content: center;
+  align-items: center;
 }
 .links a {
   text-decoration: none;
