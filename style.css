@@ -47,5 +47,17 @@ footer {
   padding: 10px 15px;
   border-radius: 5px;
 }
+@media (max-width: 600px) {
+  .links {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .links a {
+    text-align: center;
+  }
+}
+
+  
 
 
