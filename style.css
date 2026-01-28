@@ -36,7 +36,7 @@ footer {
 .links {
   display: flex;
   flex-direction: column;
-  gap: 15px;
+  gap: 16px;
   justify-content: center;
   align-items: center;
 }
